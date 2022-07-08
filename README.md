@@ -1,2 +1,2 @@
 # inuka
-A sitting break reminder
+A sitting break reminder app
